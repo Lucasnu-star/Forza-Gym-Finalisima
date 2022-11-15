@@ -1,0 +1,441 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+*
+{
+    padding: 0;
+    margin: 0;
+}
+header
+{
+    width: 100%;
+    background: url(img/banner-fondogym.jpg) no-repeat; 
+    background-size: cover;
+    
+}
+
+.logo
+{
+    display: flex;
+    width: 100%;
+    height: 60%;
+    align-items: center;
+}
+.logo h2
+{
+    margin-top: 15px;
+    margin-left: 3rem;
+    font-weight: bold;
+    font-size: 55px;
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+
+nav
+{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    font-family: 'Inter', sans-serif;
+}
+nav ul
+{
+    display: flex;
+    list-style-type: none;
+    height: 100%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+nav ul li
+{
+    display: flex;
+    margin: 1rem;
+}
+nav ul li a 
+{
+    
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    
+}
+nav ul li a:hover
+{
+    color: yellow;
+    transition: all 1s ease;
+}
+.carousel
+{
+    display: flex;
+    justify-content: center;
+}
+
+.section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    background-color: #2D2927;
+    color: white;
+    
+}
+.section h1
+{
+    margin-top:  17rem;
+    font-size: 60px;
+}
+.section h3
+{
+    margin-top: 2rem;
+    font-size: 30px;
+}
+.section h4
+{
+    margin-top: 2rem;
+    font-size: 20px;
+    margin-bottom: 17rem;
+}
+.section h4 a 
+{
+    text-decoration: none;
+    border-bottom: 3px solid rgb(255, 255, 255);
+    color: white;
+}
+footer
+{
+    background-color: black;
+    padding-bottom: 6px;
+    padding-top: 15px;
+   background-color: black;
+}
+.logo-footer
+{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    justify-content:center ;
+    align-items: center;
+}
+.logo-footer img
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.copy
+{
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+
+}
+.copy h4
+{
+    color: white;
+    font-size: 18px;
+}
+.father-coach
+{
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-family: 'Inter', sans-serif;
+    align-items: center;
+    background-color: #2D2927;
+
+}
+.text-coachs
+{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+    
+    
+    justify-content: center;
+    width: 100%;
+    
+    
+
+}
+
+.text-coachs img
+{
+    width: 99%;
+    
+}
+.sec-coaches
+{
+    width: 90%;
+    background-color: #2D2927;
+    color: white;
+    
+
+}
+.card-footer
+{
+    
+    background-color: #2D2927;
+    text-align: center;
+}
+
+.card-group
+{
+    margin-bottom: 150px;
+}
+
+.card-img-top
+{
+    width: 100%;
+    height: 750px;
+    background-color: #2D2927;
+}
+.card-body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #2D2927;
+    
+}
+
+.sec-servicio
+{
+    color: white;
+    width: 70%;
+    background-color: #2d2927;
+    
+}
+
+
+.card-title1
+{
+    text-align: center;
+}
+.card-text1
+{
+    text-align: center;
+    
+}
+.father-contact
+{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', sans-serif;
+    background-color: #2D2927;
+    color: white;
+}
+.secp
+{
+    display: flex;
+}
+.horarios 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.horarios  img
+{
+    height: 80%;
+    width: 50%;
+    border: 1px solid white;
+}
+.maps
+{
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+.maps iframe
+{
+    width: 90%;
+}
+.contact-us
+{
+    display: flex;
+}
+.info-nos
+{
+    width: 40%;
+}
+.formulario
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 60%;
+}
+legend
+{
+    width: 100%;
+    text-align: center;
+}
+textarea
+{
+    resize: none;
+}
+.col-12
+{
+    width: 100%;
+}
+
+.col-121
+{   
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.col-2{
+    margin-top: 15px;
+}
+.col-8
+{
+    margin-top: 15px;
+}
+title
+{
+    color: black;
+}
+.btn-send
+{
+    padding: 0.5rem;
+    margin: 10px;
+    width: 100px;
+}
+.col-2
+{
+    text-align:center;
+}
+.cos
+{
+    display: flex;
+    align-items: center;
+    width: 60%;
+}
+.info-nos
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.info-p
+{
+    text-align: center;
+}
+
+.info-nos p
+{
+    width: 60%;
+    
+}
+.cos p
+{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 100%;
+}
+.fa-phone
+{
+    margin-left: 15px;
+}
+.fa-envelope
+{
+    margin-left: 15px;
+}
+.fa-map-location-dot
+{
+    margin-left: 15px;
+}
+.father-perfil
+{
+    background-color: #2D2927;
+}
+
+.banner-perfil
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   
+    
+}
+.banner-perfil img
+{
+    margin-top: 10px;
+    width: 99%;
+}
+.infoperfil
+{
+    width: 100%;
+    display: flex;
+    justify-content: center
+    
+}
+.infoperfil img
+{
+    position: relative;
+    height: 450px;
+    width: 450px;
+    
+    border: 1px solid white;
+   
+    
+    
+}
+.info-register
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    border: 1px solid white;
+    width: 40%;
+}
+.info-register h3
+{
+    font-size: 55px;
+}
+.info-register p
+{
+    margin: 3rem;
+    font-size: 15px;
+    
+}
+.flex-p
+{
+    display: flex;
+    
+}
+.section-dash
+{
+    text-align: left;
+    margin-top: 100px;
+    width: 100%;
+
+    color: white;
+}
+.section-dash h2
+{
+    margin-left: 150px;
+}
+.section-dash p
+{
+    margin-left: 150px;
+}
+.butons-fechas-gym 
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.butons-fechas-gym .btn
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
