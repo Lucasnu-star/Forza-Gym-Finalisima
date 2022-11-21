@@ -21,9 +21,10 @@ La pagina estab basada en un gimnasio ForzaGym ubicada en Argentina ciudad de Ma
 
  - Se hizo uso del atributo "ALT" en todas las imágenes.
  - Se crearon diferentes "meta": description y keywords.
-   ## :bulb:Observaciones
+  ## :eye:Observaciones
 
- - Se hace uso de canvas para la creación de imágenes.
+ - Se hace uso de canva para la creación de imágenes.
+ - Se utilizo la tecnica MediaQuery para hacer la pagina adaptada a todos los dispositivos.
  
  
 
