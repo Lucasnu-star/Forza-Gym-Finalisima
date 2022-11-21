@@ -29,7 +29,7 @@ La pagina estab basada en un gimnasio ForzaGym ubicada en Argentina ciudad de Ma
 
 
 
-##  Authors
+## Authors
 
 - [@Lucasnu-star](https://www.github.com/octokatherine)
 ##  Github pages!
@@ -37,5 +37,5 @@ La pagina estab basada en un gimnasio ForzaGym ubicada en Argentina ciudad de Ma
 - Si estas interesado en [@link Github pages](https://lucasnu-star.github.io/Forza-Gym-Finalisima/)
 - Si estas interesado en [@link subido al servidor](https://forzagymm.000webhostapp.com/) (Subido al servidor se va a poder apreciar el funcionamiento del formulario)
 
-¡Muchas gracias por llegar hasta acá, espero que te haya gustado mi trabajo!:argentina::hearts::chile:
+¡Muchas gracias por llegar hasta acá, espero que te haya gustado mi trabajo!  :argentina::white_heart::chile:
 
