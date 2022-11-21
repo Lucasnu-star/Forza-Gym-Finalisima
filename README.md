@@ -23,7 +23,7 @@ La pagina estab basada en un gimnasio ForzaGym ubicada en Argentina ciudad de Ma
  - Se crearon diferentes "meta": description y keywords.
    ## :bulb:Observaciones
 
- - Se hace uso de canva para la creación de imágenes.
+ - Se hace uso de canvas para la creación de imágenes.
  
  
 
