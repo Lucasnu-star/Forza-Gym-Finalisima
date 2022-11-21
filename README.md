@@ -1,4 +1,4 @@
-# :weight_lifting:¡Proyecto ForzaGym!:weight_lifting:
+# :weight_lifting:¡Proyecto ForzaGym!:weight_lifting_woman:
 
 Hola, Bienvenido a mi primer proyecto que realize durante el curso de Desarrollo Web en coderhouse. Espero les guste!
 
