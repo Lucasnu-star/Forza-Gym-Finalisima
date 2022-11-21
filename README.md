@@ -1,4 +1,4 @@
-# :small_blue_diamond:¡Proyecto ForzaGym!:small_blue_diamond:
+# :weight_lifting:¡Proyecto ForzaGym!:weight_lifting:
 
 Hola, Bienvenido a mi primer proyecto que realize durante el curso de Desarrollo Web en coderhouse. Espero les guste!
 
